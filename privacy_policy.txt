@@ -4,7 +4,7 @@ Last updated on: July 19, 2021
 
 1. GENERAL
 
-    a. This Mobile Application with the name of Hit There ("App/Hit There") is operated by Pavan Vitthal Yewale ("/We/Our/Us"). We are committed to protecting and respecting your privacy. We do collect your personal information and process your personal data in accordance with the IT Act, 2000 (21 of 2000) and other national and state laws which relate the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data.
+    a. This Mobile Application with the name of Hit There ("App/Hit There") is operated by Pavan Vitthal Yewale ("/We/Our/Us"). We are committed to protecting and respecting your privacy. We do collect your personal information and process your personal data in accordance with the IT Act, 2000 (21 of 2000) and other national and state laws which relate the processing of personal data. Your all information can be visible to other users on hithere. Please read the following carefully to understand our views and practices regarding your personal data. 
     b. Downloading, accessing, or otherwise using the App indicates that you have read this Privacy Policy and consent to its terms. If you do not consent to the terms of this Privacy Policy, do not proceed to download, access, or otherwise use the App.
     c. We collect your personal information in order to provide and continually improve our products and services.
     d. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. The last updated date can found at the beginning of this policy.
@@ -57,7 +57,7 @@ Last updated on: July 19, 2021
 
 6. DATA SECURITY
 
-    a. We take due care to protect customer data. Technical measures are in place to prevent unauthorized or unlawful access to data and against accidental loss or destruction of, or damage to the data. The employees who are dealing with the data have been trained to protect the data from any illegal or unauthorized usage.
+    a. We take due care to protect customer data. Technical measures are in place to prevent unauthorized or unlawful access to data and against accidental loss or destruction of, or damage to the data. The employees who are dealing with the data have been trained to protect the data from any illegal or unauthorized usage. But at any circumstances if data get corrupt we do not garantee that your data will not lost.
     b. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
     c. We take reasonable steps to help protect your personal information in an effort to prevent the loss, misuse, and unauthorized access, disclosure alteration and destruction. It is your responsibility to protect your user names and passwords to help prevent anyone from accessing or abusing your accounts and services. You should not use or reuse the same passwords you use with other accounts as your password for our services.</p>
     d. It is important for you to protect against unauthorized access to your password and your devices, and applications. Be sure to sign off when you finish using a non-personal device.
@@ -90,6 +90,7 @@ Last updated on: July 19, 2021
     a. We may collect information from specific categories of users who may be particularly vulnerable.
     b. Information collected from vulerable users in accordance with this clause is collected for the purpose of helping us to improve the Product and Your user experience.
     c. Information collected from vulnerable users in accordance with this clause, is collected, used and if applicable, discosed, in accordance with the general provisions of this Privacy Policy.
+    d. We may share your data for any investigation by legal/authorized security.
 
 
 11. CHANGES TO THIS POLICY
