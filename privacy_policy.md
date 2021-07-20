@@ -1,5 +1,5 @@
-Effective date: July 19, 2021
-Last updated on: July 19, 2021
+### Effective date: July 19, 2021
+### Last updated on: July 19, 2021
 
 
 ## 1. GENERAL
