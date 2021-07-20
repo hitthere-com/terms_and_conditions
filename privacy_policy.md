@@ -2,7 +2,7 @@ Effective date: July 19, 2021
 Last updated on: July 19, 2021
 
 
-1. GENERAL
+## 1. GENERAL
 
 a. This Mobile Application with the name of Hit There ("App/Hit There") is operated by Pavan Vitthal Yewale ("/We/Our/Us"). We are committed to protecting and respecting your privacy. We do collect your personal information and process your personal data in accordance with the IT Act, 2000 (21 of 2000) and other national and state laws which relate the processing of personal data. Your all information can be visible to other users on hithere. Please read the following carefully to understand our views and practices regarding your personal data. 
 
@@ -15,7 +15,7 @@ d. Our privacy policy is subject to change at any time without notice. To make s
 e. All partner firms and any third-party working with or for Us, and who have access to personal information, will be expected to read and comply with this policy. No third party may access or process personal information held by Us without having first entered into a confidentiality agreement.
 
 
-2. HOW WE COLLECT THE INFORMATION
+## 2. HOW WE COLLECT THE INFORMATION
 
 a. From you directly and through this App: We may collect information through the App when you visit. The data we collect depends on the context of your interactions with our App.
 
@@ -26,7 +26,7 @@ c. From other sources: We may receive information from other sources, such as pu
 I. Information about your interactions with the products and services offered by our subsidiaries.
 
 
-3. INFORMATION WE COLLECT
+## 3. INFORMATION WE COLLECT
 
 a. We collect information primarily to provide better services to all of our customers.
 
@@ -50,7 +50,7 @@ i. We will retain your information as long as we require this to provide you wit
 j. If you opt to receive marketing correspondence from us, subscribe to our mailing list or newsletters, enter into any of our competitions or provide us with your details at networking events, we may use your personal data for our legitimate interests in order to provide you with details about our goods, services, business updates and events.
 
 
-4. HOW WE USE INFORMATION 
+## 4. HOW WE USE INFORMATION 
     
 a. We use the information we collect primarily to provide, maintain, protect and improve our current products and services.
     
@@ -65,7 +65,7 @@ b. We use the information collected through this App as described in this policy
     VIII. Protect, investigate and deter against fraudulent, unauthorized or illegal activity.
 
 
-5. DATA TRANSFER
+## 5. DATA TRANSFER
 
 a. Information about our user is an important part of our business and we take due care.</p>
 
@@ -76,11 +76,11 @@ c. These third-party service providers have access to personal information neede
 d. We release account and other personal information when we believe is appropriate to comply with the law, enforce or apply our conditions of use, and other agreements, protect the rights, property or safety of Us, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
-6. DATA SECURITY
+## 6. DATA SECURITY
 
 a. We take due care to protect customer data. Technical measures are in place to prevent unauthorized or unlawful access to data and against accidental loss or destruction of, or damage to the data. The employees who are dealing with the data have been trained to protect the data from any illegal or unauthorized usage. But at any circumstances if data get corrupt we do not garantee that your data will not lost.
 
-b. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
+## b. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
 
 c. We take reasonable steps to help protect your personal information in an effort to prevent the loss, misuse, and unauthorized access, disclosure alteration and destruction. It is your responsibility to protect your user names and passwords to help prevent anyone from accessing or abusing your accounts and services. You should not use or reuse the same passwords you use with other accounts as your password for our services.</p>
 
@@ -91,12 +91,12 @@ e. Information you provide to us is shared on our secure servers. We have implem
 f. Information collected from you will be stored for such period as required to complete the transaction entered into with you or such period as mandated under the applicable laws.
 
 
-7. LINKS TO THIRD PARTY SITE/APPS
-	
-    Our App may, from time to time, contain links to and from other Apps/Websites of third parties. Please note that if you follow a link to any of these Apps/Websites, such Apps/Websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. When you leave our Site, we encourage you to read the privacy policy of every App/Website you visit.
+## 7. LINKS TO THIRD PARTY SITE/APPS
+
+a. Our App may, from time to time, contain links to and from other Apps/Websites of third parties. Please note that if you follow a link to any of these Apps/Websites, such Apps/Websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. When you leave our Site, we encourage you to read the privacy policy of every App/Website you visit.
 
 
-8. SHARING OF PERSONAL INFORMATION
+## 8. SHARING OF PERSONAL INFORMATION
     
 a. We do not share your personal data with third parties without your prior consent other than:
     I. With third parties who work on our behalf provided such third parties adhere to the data protection principles set out in the IT Act, 2000 (21 of 2000) and other applicable legislation, or enter into a written agreement with Us requiring that the third party provide at least the same level of privacy protection as is required by such principles;
@@ -106,12 +106,12 @@ a. We do not share your personal data with third parties without your prior cons
     V. For the purpose of a business deal (or negotiation of a business deal) involving the sale or transfer of all or a part of our business or assets (business deals may include, for example, any merger, financing, acquisition, divestiture or bankruptcy transaction or proceeding).
 
 
-9. CHILDREN
-    
-    If you are under the age of 18 or the age of majority in the jurisdiction in which you reside, you may only use Our App with the consent of your parent or legal guardian. In any case, We will not be liable for any cause of action that arose due to non-compliance with this section.
+## 9. CHILDREN
+
+a. If you are under the age of 18 or the age of majority in the jurisdiction in which you reside, you may only use Our App with the consent of your parent or legal guardian. In any case, We will not be liable for any cause of action that arose due to non-compliance with this section.
 
 
-10. VULNERABLE USERS
+## 10. VULNERABLE USERS
 
 a. We may collect information from specific categories of users who may be particularly vulnerable.
 
@@ -122,15 +122,15 @@ c. Information collected from vulnerable users in accordance with this clause, i
 d. We may share your data for any investigation by legal/authorized security.
 
 
-11. CHANGES TO THIS POLICY
+## 11. CHANGES TO THIS POLICY
 
-    We may change this policy from time to time. If we make any changes to this policy, we will change the "Last Updated" date above. You agree that your continued use of our services after such changes have been published to our services will constitute your acceptance of such revised policy. 
+We may change this policy from time to time. If we make any changes to this policy, we will change the "Last Updated" date above. You agree that your continued use of our services after such changes have been published to our services will constitute your acceptance of such revised policy. 
 If you have any concern about privacy or grievances with Us, please contact us with a thorough description and we will try to resolve the issue for you.
 
 
-Contact Details:
+## Contact Details:
 
-Mr. Pavan Yewale,
-A/P Daithane Gunjal, Tal Parner Dist Ahmednagar,
-+91 7040309988
-pavan.yewale@hitthere.com
+### Mr. Pavan Yewale,
+### A/P Daithane Gunjal, Tal Parner Dist Ahmednagar,
+### +91 7040309988
+### pavan.yewale@hitthere.com
