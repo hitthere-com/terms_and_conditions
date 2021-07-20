@@ -80,7 +80,7 @@ d. We release account and other personal information when we believe is appropri
 
 a. We take due care to protect customer data. Technical measures are in place to prevent unauthorized or unlawful access to data and against accidental loss or destruction of, or damage to the data. The employees who are dealing with the data have been trained to protect the data from any illegal or unauthorized usage. But at any circumstances if data get corrupt we do not garantee that your data will not lost.
 
-## b. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
+b. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
 
 c. We take reasonable steps to help protect your personal information in an effort to prevent the loss, misuse, and unauthorized access, disclosure alteration and destruction. It is your responsibility to protect your user names and passwords to help prevent anyone from accessing or abusing your accounts and services. You should not use or reuse the same passwords you use with other accounts as your password for our services.</p>
 
